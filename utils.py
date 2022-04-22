@@ -1,6 +1,5 @@
 import numpy as np
-from sklearn.metrics import accuracy_score, roc_auc_score, balanced_accuracy_score, precision_recall_curve, auc, f1_score
-from imblearn.metrics import geometric_mean_score
+from sklearn.metrics import roc_auc_score, precision_recall_curve, auc
 import time
 
 def all_metrics(X, y, scores, scores01):
