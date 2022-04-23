@@ -1,10 +1,12 @@
 # DIRECT
 <i>How do we train a classifier from 5 positive points, 1,000 negative points, and 100,000 features?</i>
 
-DIRECT uses a robust smoothed distribution of the minority class. The algorithm is
-* fast
+DIRECT is a 
+* fast,
 * parameter-free, and
-* easy to interpret.
+* easy to interpret
+
+classifier that uses a robust smoothed distribution of the minority class to deal with the limited data.
 
 <i>Example on the Tumors dataset:</i>
 This is csv file where each row represents the tumor type (first column) and scaled gene expression data (remaining 16,063 columns) for an individual patient (http://portals.broadinstitute.org/cgi-bin/cancer/datasets.cgi).
