@@ -1,16 +1,8 @@
 # DIRECT
-
-### <i>How do we train a classifier from 5 positive points, 1,000 negative points, and 100,000 features?</i>
-
-
-![DIRECT overview](direct.png)
-
-DIRECT's classifier is
-* fast,
-* parameter-free, and
-* easy to interpret.
-
-DIRECT uses a robust smoothed distribution of the minority class to deal with the extreme data scarcity.
+<p align="center">
+  <img src="posterfig2.png" alt="Problem" width=800></img><br>
+  <img src="posterfig1.png" alt="DIRECT overview" width=800></img>
+</p>
 
 ## Example on the Tumors dataset
 
