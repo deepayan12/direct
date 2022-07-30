@@ -1,7 +1,7 @@
 # DIRECT
 <p align="center">
-  <img src="posterfig2.png" alt="Problem" width=800></img><br>
-  <img src="posterfig1.png" alt="DIRECT overview" width=800></img>
+  <img src="figs/posterfig2.png" alt="Problem" width=800></img><br>
+  <img src="figs/posterfig1.png" alt="DIRECT overview" width=800></img>
 </p>
 
 ## Example on the Tumors dataset
